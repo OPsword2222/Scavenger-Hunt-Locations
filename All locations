@@ -5,9 +5,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": 171,
+        "y": 69,
+        "z": -1552
       }
     },
     {
@@ -16,9 +16,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -268,
+        "y": 67,
+        "z": -1375
       }
     },
     {
@@ -27,9 +27,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -660,
+        "y": 106,
+        "z": -1236
       }
     },
     {
@@ -38,9 +38,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": 42,
+        "y": 32,
+        "z": -2230
       }
     },
     {
@@ -49,9 +49,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -528,
+        "y": 76,
+        "z": -1710
       }
     },
     {
@@ -60,9 +60,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": 1403,
+        "y": 42,
+        "z": -1548
       }
     },
     {
@@ -71,9 +71,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -203,
+        "y": 74,
+        "z": -642
       }
     },
     {
@@ -82,9 +82,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -906,
+        "y": 55,
+        "z": -3269
       }
     },
     {
@@ -93,9 +93,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -1255,
+        "y": 43,
+        "z": -4457
       }
     },
     {
@@ -104,9 +104,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -1914,
+        "y": 78,
+        "z": -1756
       }
     },
     {
@@ -115,9 +115,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -458,
+        "y": 72,
+        "z": -1471
       }
     },
     {
@@ -126,9 +126,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -1334,
+        "y": 54,
+        "z": -5111
       }
     },
     {
@@ -137,9 +137,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -2101,
+        "y": 59,
+        "z": -4845
       }
     },
     {
@@ -148,9 +148,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -817,
+        "y": 76,
+        "z": -956
       }
     },
     {
@@ -159,9 +159,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": 143,
+        "y": 52,
+        "z": -5393
       }
     },
     {
@@ -170,9 +170,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -817,
+        "y": 88,
+        "z": -956
       }
     },
     {
@@ -181,9 +181,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -619,
+        "y": 6,
+        "z": -5570
       }
     },
     {
@@ -192,9 +192,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": -1234,
+        "y": 35,
+        "z": -3083
       }
     },
     {
@@ -203,9 +203,9 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": 1559,
+        "y": 86,
+        "z": -5500
       }
     },
     {
@@ -214,9 +214,20 @@
       "icon": "mining",
       "visibilty": "always",
       "location": {
-        "x": ,
-        "y": ,
-        "z": 
+        "x": 1485,
+        "y": 133,
+        "z": -5443
+      }
+    },
+    {
+      "name": "[Day 21] Location",
+      "color:" "#fd9802",
+      "icon": "mining",
+      "visibilty": "always",
+      "location": {
+        "x": 772,
+        "y": 129,
+        "z": -4930
       }
     },
 },
